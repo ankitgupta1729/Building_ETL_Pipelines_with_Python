@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="C:\Users\ankit19.gupta\ankit\ankit\ML_Code\Building_ETL_Pipelines_with_Python\myenv" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\ankit19.gupta\ankit\ankit\ML_Code\Building_ETL_Pipelines_with_Python\myenv" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="$PROJECT_DIR$/myenv" project-jdk-type="Python SDK" />
 </project>
